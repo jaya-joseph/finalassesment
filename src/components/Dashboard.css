@@ -1,0 +1,15 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+  }
+  
+  .chart {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
